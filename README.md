@@ -1,6 +1,6 @@
 ![alt tag](https://cloud.githubusercontent.com/assets/10540496/24483626/042012e0-152c-11e7-8d57-185f9d59adde.png)
 
-[![Swift](https://img.shields.io/badge/Swift-3.0-orange.svg)]() [![Platform](https://img.shields.io/badge/platform-iOS-lightgrey.svg)]()
+
 
 Angela's Kitchen is a food app displaying some delicious recipes. 
 
